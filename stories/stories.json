@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "8fb98a2ee348",
+      "storyName": "Teodora și Oglinda Inimii",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8fb98a2ee348/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/8fb98a2ee348",
+      "createdAt": "2026-04-09T22:40:50.587Z"
+    },
+    {
       "storyId": "9c5b26c2d34a",
       "storyName": "Teodora și Cetatea Mândriei",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9c5b26c2d34a/images/page-1.png",
