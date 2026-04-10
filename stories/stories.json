@@ -1,132 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "d122930438a3",
-      "storyName": "Teodora și Veninul Cuvintelor",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d122930438a3/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/d122930438a3",
-      "createdAt": "2026-04-09T22:55:33.251Z"
-    },
-    {
-      "storyId": "62c4c79cf280",
-      "storyName": "Teodora și Simfonia Inimii",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/62c4c79cf280/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/62c4c79cf280",
-      "createdAt": "2026-04-09T22:47:38.977Z"
-    },
-    {
-      "storyId": "8fb98a2ee348",
-      "storyName": "Teodora și Oglinda Inimii",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8fb98a2ee348/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/8fb98a2ee348",
-      "createdAt": "2026-04-09T22:40:50.587Z"
-    },
-    {
-      "storyId": "9c5b26c2d34a",
-      "storyName": "Teodora și Cetatea Mândriei",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9c5b26c2d34a/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/9c5b26c2d34a",
-      "createdAt": "2026-04-09T22:33:34.919Z"
-    },
-    {
-      "storyId": "7a7a6e2f913c",
-      "storyName": "Teodora și Taina Mesei de Dragoste",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/7a7a6e2f913c/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/7a7a6e2f913c",
-      "createdAt": "2026-04-09T22:26:01.964Z"
-    },
-    {
-      "storyId": "d86d9c7f9404",
-      "storyName": "Teodora și Armata de Purpură",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d86d9c7f9404/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/d86d9c7f9404",
-      "createdAt": "2026-04-09T22:18:27.826Z"
-    },
-    {
-      "storyId": "00196fb9df58",
-      "storyName": "Teodora și Capcana Lumii de Sticlă",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/00196fb9df58/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/00196fb9df58",
-      "createdAt": "2026-04-09T22:11:03.598Z"
-    },
-    {
-      "storyId": "63220ba1b764",
-      "storyName": "Teodora și Puntea de Lumină către Cer",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/63220ba1b764/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/63220ba1b764",
-      "createdAt": "2026-04-09T22:02:28.686Z"
-    },
-    {
-      "storyId": "3a222ea6204d",
-      "storyName": "Teodora și Lumina Rugăciunii Regăsite",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/3a222ea6204d/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/3a222ea6204d",
-      "createdAt": "2026-04-09T21:54:24.799Z"
-    },
-    {
-      "storyId": "52efcd69c4d5",
-      "storyName": "Teodora și Bucuria Dărniciei",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/52efcd69c4d5/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/52efcd69c4d5",
-      "createdAt": "2026-04-09T21:45:10.127Z"
-    },
-    {
-      "storyId": "adc7159d2d15",
-      "storyName": "Teodora și Lumina Curajului",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/adc7159d2d15/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/adc7159d2d15",
-      "createdAt": "2026-04-09T21:24:43.291Z"
-    },
-    {
-      "storyId": "f3a207004594",
-      "storyName": "Teodora și Scutul Inimii",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/f3a207004594/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/f3a207004594",
-      "createdAt": "2026-04-09T21:09:41.322Z"
-    },
-    {
-      "storyId": "7f0c4b8ec871",
-      "storyName": "Teodora și Lumina Adevărului",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/7f0c4b8ec871/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/7f0c4b8ec871",
-      "createdAt": "2026-04-09T21:02:08.890Z"
-    },
-    {
-      "storyId": "69df88ba6cb2",
-      "storyName": "Teodora și Puterea Iertării",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/69df88ba6cb2/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/69df88ba6cb2",
-      "createdAt": "2026-04-09T20:53:08.019Z"
-    },
-    {
-      "storyId": "03190c920976",
-      "storyName": "Teodora și Rugăciunea din Mijlocul Furtunii",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/03190c920976/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/03190c920976",
-      "createdAt": "2026-04-09T20:46:30.529Z"
-    },
-    {
-      "storyId": "a92cbb13aa22",
-      "storyName": "Teodora și Scânteia Vie a Inimii",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/a92cbb13aa22/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/a92cbb13aa22",
-      "createdAt": "2026-04-09T20:33:31.895Z"
-    },
-    {
-      "storyId": "1185ea1d8aa0",
-      "storyName": "Teodora și Taina Inimii de Lumină",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/1185ea1d8aa0/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/1185ea1d8aa0",
-      "createdAt": "2026-04-09T20:26:48.752Z"
-    },
-    {
-      "storyId": "37d976c4fb94",
-      "storyName": "Teodora și Răsuflarea de Aur a Sufletului",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/37d976c4fb94/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/37d976c4fb94",
-      "createdAt": "2026-04-09T18:44:02.925Z"
-    },
-    {
       "storyId": "911aa8f1d05e",
       "storyName": "Misiunea de pe Muntele de Cristal",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/911aa8f1d05e/images/page-1.png",
@@ -326,7 +200,134 @@
   "series": [
     {
       "title": "Teodora",
-      "stories": []
+      "stories": [
+        {
+          "storyId": "d122930438a3",
+          "storyName": "Teodora și Veninul Cuvintelor",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d122930438a3/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/d122930438a3",
+          "createdAt": "2026-04-09T22:55:33.251Z"
+        },
+        {
+          "storyId": "62c4c79cf280",
+          "storyName": "Teodora și Simfonia Inimii",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/62c4c79cf280/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/62c4c79cf280",
+          "createdAt": "2026-04-09T22:47:38.977Z"
+        },
+        {
+          "storyId": "8fb98a2ee348",
+          "storyName": "Teodora și Oglinda Inimii",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8fb98a2ee348/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/8fb98a2ee348",
+          "createdAt": "2026-04-09T22:40:50.587Z"
+        },
+        {
+          "storyId": "9c5b26c2d34a",
+          "storyName": "Teodora și Cetatea Mândriei",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9c5b26c2d34a/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/9c5b26c2d34a",
+          "createdAt": "2026-04-09T22:33:34.919Z"
+        },
+        {
+          "storyId": "7a7a6e2f913c",
+          "storyName": "Teodora și Taina Mesei de Dragoste",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/7a7a6e2f913c/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/7a7a6e2f913c",
+          "createdAt": "2026-04-09T22:26:01.964Z"
+        },
+        {
+          "storyId": "d86d9c7f9404",
+          "storyName": "Teodora și Armata de Purpură",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d86d9c7f9404/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/d86d9c7f9404",
+          "createdAt": "2026-04-09T22:18:27.826Z"
+        },
+        {
+          "storyId": "00196fb9df58",
+          "storyName": "Teodora și Capcana Lumii de Sticlă",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/00196fb9df58/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/00196fb9df58",
+          "createdAt": "2026-04-09T22:11:03.598Z"
+        },
+        {
+          "storyId": "63220ba1b764",
+          "storyName": "Teodora și Puntea de Lumină către Cer",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/63220ba1b764/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/63220ba1b764",
+          "createdAt": "2026-04-09T22:02:28.686Z"
+        },
+        {
+          "storyId": "3a222ea6204d",
+          "storyName": "Teodora și Lumina Rugăciunii Regăsite",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/3a222ea6204d/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/3a222ea6204d",
+          "createdAt": "2026-04-09T21:54:24.799Z"
+        },
+        {
+          "storyId": "52efcd69c4d5",
+          "storyName": "Teodora și Bucuria Dărniciei",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/52efcd69c4d5/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/52efcd69c4d5",
+          "createdAt": "2026-04-09T21:45:10.127Z"
+        },
+        {
+          "storyId": "adc7159d2d15",
+          "storyName": "Teodora și Lumina Curajului",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/adc7159d2d15/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/adc7159d2d15",
+          "createdAt": "2026-04-09T21:24:43.291Z"
+        },
+        {
+          "storyId": "f3a207004594",
+          "storyName": "Teodora și Scutul Inimii",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/f3a207004594/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/f3a207004594",
+          "createdAt": "2026-04-09T21:09:41.322Z"
+        },
+        {
+          "storyId": "7f0c4b8ec871",
+          "storyName": "Teodora și Lumina Adevărului",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/7f0c4b8ec871/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/7f0c4b8ec871",
+          "createdAt": "2026-04-09T21:02:08.890Z"
+        },
+        {
+          "storyId": "69df88ba6cb2",
+          "storyName": "Teodora și Puterea Iertării",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/69df88ba6cb2/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/69df88ba6cb2",
+          "createdAt": "2026-04-09T20:53:08.019Z"
+        },
+        {
+          "storyId": "03190c920976",
+          "storyName": "Teodora și Rugăciunea din Mijlocul Furtunii",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/03190c920976/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/03190c920976",
+          "createdAt": "2026-04-09T20:46:30.529Z"
+        },
+        {
+          "storyId": "a92cbb13aa22",
+          "storyName": "Teodora și Scânteia Vie a Inimii",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/a92cbb13aa22/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/a92cbb13aa22",
+          "createdAt": "2026-04-09T20:33:31.895Z"
+        },
+        {
+          "storyId": "1185ea1d8aa0",
+          "storyName": "Teodora și Taina Inimii de Lumină",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/1185ea1d8aa0/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/1185ea1d8aa0",
+          "createdAt": "2026-04-09T20:26:48.752Z"
+        },
+        {
+          "storyId": "37d976c4fb94",
+          "storyName": "Teodora și Răsuflarea de Aur a Sufletului",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/37d976c4fb94/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/37d976c4fb94",
+          "createdAt": "2026-04-09T18:44:02.925Z"
+        }
+      ]
     }
   ]
 }
