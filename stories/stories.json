@@ -321,13 +321,6 @@
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/56eb5e57fb6c/images/page-1.png",
       "shareUrl": "https://gemini.google.com/share/56eb5e57fb6c",
       "createdAt": "2026-04-05T11:59:10.194Z"
-    },
-    {
-      "storyId": "9beff365f4b7",
-      "storyName": "Teodora și Zidul de Gheață",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9beff365f4b7/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/9beff365f4b7",
-      "createdAt": "2026-04-09T23:13:12.100Z"
     }
   ],
   "series": [
@@ -340,6 +333,13 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/6b3fcd305917/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/6b3fcd305917",
           "createdAt": "2026-04-09T23:22:58.187Z"
+        },
+        {
+          "storyId": "9beff365f4b7",
+          "storyName": "Teodora și Zidul de Gheață",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9beff365f4b7/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/9beff365f4b7",
+          "createdAt": "2026-04-09T23:13:12.100Z"
         }
       ]
     }
