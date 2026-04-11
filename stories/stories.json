@@ -1,13 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "3d2b7e844ff7",
-      "storyName": "Roua și Plăcinta Recunoștinței",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/3d2b7e844ff7/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/3d2b7e844ff7",
-      "createdAt": "2026-04-11T11:09:58.609Z"
-    },
-    {
       "storyId": "911aa8f1d05e",
       "storyName": "Misiunea de pe Muntele de Cristal",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/911aa8f1d05e/images/page-1.png",
@@ -27,13 +20,6 @@
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/df978a07d999/images/page-1.png",
       "shareUrl": "https://gemini.google.com/share/df978a07d999",
       "createdAt": "2026-04-08T16:03:46.069Z"
-    },
-    {
-      "storyId": "438b0e528104",
-      "storyName": "Roua și Cântecul Inimii",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/438b0e528104/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/438b0e528104",
-      "createdAt": "2026-04-08T05:51:31.231Z"
     },
     {
       "storyId": "84bdb9c18b85",
@@ -345,7 +331,22 @@
     },
     {
       "title": "Roua",
-      "stories": []
+      "stories": [
+        {
+          "storyId": "438b0e528104",
+          "storyName": "Roua și Cântecul Inimii",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/438b0e528104/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/438b0e528104",
+          "createdAt": "2026-04-08T05:51:31.231Z"
+        },
+        {
+          "storyId": "3d2b7e844ff7",
+          "storyName": "Roua și Plăcinta Recunoștinței",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/3d2b7e844ff7/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/3d2b7e844ff7",
+          "createdAt": "2026-04-11T11:09:58.609Z"
+        }
+      ]
     }
   ]
 }
