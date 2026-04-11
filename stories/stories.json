@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "118be2d68bea",
+      "storyName": "Teodora și Recunoștința Inimii",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/118be2d68bea/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/118be2d68bea",
+      "createdAt": "2026-04-11T09:05:06.882Z"
+    },
+    {
       "storyId": "911aa8f1d05e",
       "storyName": "Misiunea de pe Muntele de Cristal",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/911aa8f1d05e/images/page-1.png",
@@ -200,7 +207,6 @@
   "series": [
     {
       "title": "Teodora",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d122930438a3/images/page-1.png",
       "stories": [
         {
           "storyId": "d122930438a3",
