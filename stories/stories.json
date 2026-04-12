@@ -462,6 +462,13 @@
       "title": "Biblia",
       "stories": [
         {
+          "storyId": "c70bf840b77c",
+          "storyName": "Comorile inimii: Învățăturile de pe munte",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/c70bf840b77c/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/c70bf840b77c",
+          "createdAt": "2026-04-12T18:08:48.723Z"
+        },
+        {
           "storyId": "17d9a3632bc6",
           "storyName": "Cuvintele Vieții: Predica de pe Munte",
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/17d9a3632bc6/images/page-1.png",
@@ -481,13 +488,6 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/360dede691cb/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/360dede691cb",
           "createdAt": "2026-04-12T17:25:50.089Z"
-        },
-        {
-          "storyId": "c70bf840b77c",
-          "storyName": "Comorile inimii: Învățăturile de pe munte",
-          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/c70bf840b77c/images/page-1.png",
-          "shareUrl": "https://gemini.google.com/share/c70bf840b77c",
-          "createdAt": "2026-04-12T18:08:48.723Z"
         },
         {
           "storyId": "36b5222e013b",
