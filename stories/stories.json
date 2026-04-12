@@ -1,13 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "d80dd5e86f86",
-      "storyName": "Busola Liniștii și Mărturisirea Adevărului",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d80dd5e86f86/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/d80dd5e86f86",
-      "createdAt": "2026-04-12T17:23:08.198Z"
-    },
-    {
       "storyId": "68ec05ada74e",
       "storyName": "Lumina în Pustiu: Începutul Misiunii lui Iisus",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/68ec05ada74e/images/page-1.png",
@@ -462,6 +455,13 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/331213e9e055/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/331213e9e055",
           "createdAt": "2026-04-12T12:16:25.442Z"
+        },
+        {
+          "storyId": "d80dd5e86f86",
+          "storyName": "Busola Liniștii și Mărturisirea Adevărului",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d80dd5e86f86/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/d80dd5e86f86",
+          "createdAt": "2026-04-12T17:23:08.198Z"
         }
       ]
     }
