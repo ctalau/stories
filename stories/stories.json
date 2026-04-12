@@ -462,6 +462,13 @@
       "title": "Biblia",
       "stories": [
         {
+          "storyId": "36b5222e013b",
+          "storyName": "Predica de pe munte",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/36b5222e013b/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/36b5222e013b",
+          "createdAt": "2026-04-12T18:09:51.151Z"
+        },
+        {
           "storyId": "68ec05ada74e",
           "storyName": "Lumina în Pustiu: Începutul Misiunii lui Iisus",
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/68ec05ada74e/images/page-1.png",
@@ -481,13 +488,6 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/360dede691cb/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/360dede691cb",
           "createdAt": "2026-04-12T17:25:50.089Z"
-        },
-        {
-          "storyId": "36b5222e013b",
-          "storyName": "Predica de pe munte",
-          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/36b5222e013b/images/page-1.png",
-          "shareUrl": "https://gemini.google.com/share/36b5222e013b",
-          "createdAt": "2026-04-12T18:09:51.151Z"
         },
         {
           "storyId": "c70bf840b77c",
