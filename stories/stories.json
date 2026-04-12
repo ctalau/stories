@@ -1,13 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "b74f8b845162",
-      "storyName": "Duhul Sfânt: Capcana Mândriei și Lumina Smereniei",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/b74f8b845162/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/b74f8b845162",
-      "createdAt": "2026-04-12T19:38:39.575Z"
-    },
-    {
       "storyId": "561336343ded",
       "storyName": "Misterul de sub Castelul Umbrelor: Lecția Labirintului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/561336343ded/images/page-1.png",
@@ -462,6 +455,13 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d80dd5e86f86/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/d80dd5e86f86",
           "createdAt": "2026-04-12T17:23:08.198Z"
+        },
+        {
+          "storyId": "b74f8b845162",
+          "storyName": "Duhul Sfânt: Capcana Mândriei și Lumina Smereniei",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/b74f8b845162/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/b74f8b845162",
+          "createdAt": "2026-04-12T19:38:39.575Z"
         }
       ]
     },
