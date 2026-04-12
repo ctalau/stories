@@ -462,6 +462,13 @@
       "title": "Biblia",
       "stories": [
         {
+          "storyId": "8728b69fec48",
+          "storyName": "Minunile Domnului: Puterea și Mila lui Iisus",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8728b69fec48/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/8728b69fec48",
+          "createdAt": "2026-04-12T18:06:27.041Z"
+        },
+        {
           "storyId": "17d9a3632bc6",
           "storyName": "Cuvintele Vieții: Predica de pe Munte",
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/17d9a3632bc6/images/page-1.png",
@@ -502,13 +509,6 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/360dede691cb/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/360dede691cb",
           "createdAt": "2026-04-12T17:25:50.089Z"
-        },
-        {
-          "storyId": "8728b69fec48",
-          "storyName": "Minunile Domnului: Puterea și Mila lui Iisus",
-          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8728b69fec48/images/page-1.png",
-          "shareUrl": "https://gemini.google.com/share/8728b69fec48",
-          "createdAt": "2026-04-12T18:06:27.041Z"
         },
         {
           "storyId": "4c03f6753aad",
