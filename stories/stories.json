@@ -462,6 +462,13 @@
       "title": "Biblia",
       "stories": [
         {
+          "storyId": "0aace1a31cf2",
+          "storyName": "Glasul din Pustie: Botezul Domnului",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/0aace1a31cf2/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/0aace1a31cf2",
+          "createdAt": "2026-04-12T18:11:04.456Z"
+        },
+        {
           "storyId": "360dede691cb",
           "storyName": "Steaua Călăuzitoare și Drumul spre Casă",
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/360dede691cb/images/page-1.png",
@@ -502,13 +509,6 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/68ec05ada74e/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/68ec05ada74e",
           "createdAt": "2026-04-12T16:52:36.197Z"
-        },
-        {
-          "storyId": "0aace1a31cf2",
-          "storyName": "Glasul din Pustie: Botezul Domnului",
-          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/0aace1a31cf2/images/page-1.png",
-          "shareUrl": "https://gemini.google.com/share/0aace1a31cf2",
-          "createdAt": "2026-04-12T18:11:04.456Z"
         },
         {
           "storyId": "4c03f6753aad",
