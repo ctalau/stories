@@ -1,13 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "b22bdbb31e4d",
-      "storyName": "Cel mai mare în Împărăția Cerurilor",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/b22bdbb31e4d/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/b22bdbb31e4d",
-      "createdAt": "2026-04-14T08:46:34.175Z"
-    },
-    {
       "storyId": "561336343ded",
       "storyName": "Misterul de sub Castelul Umbrelor: Lecția Labirintului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/561336343ded/images/page-1.png",
@@ -621,6 +614,13 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/b952b769bdd8/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/b952b769bdd8",
           "createdAt": "2026-04-14T08:45:10.359Z"
+        },
+        {
+          "storyId": "b22bdbb31e4d",
+          "storyName": "Cel mai mare în Împărăția Cerurilor",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/b22bdbb31e4d/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/b22bdbb31e4d",
+          "createdAt": "2026-04-14T08:46:34.175Z"
         }
       ]
     }
