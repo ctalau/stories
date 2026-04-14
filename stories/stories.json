@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "e2a252dae920",
+      "storyName": "O Veste din Betania",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/e2a252dae920/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/e2a252dae920",
+      "createdAt": "2026-04-14T17:36:40.050Z"
+    },
+    {
       "storyId": "c1645d4b04be",
       "storyName": "Împăratul și faptele iubirii",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/c1645d4b04be/images/page-1.png",
