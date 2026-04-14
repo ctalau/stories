@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "01c269a53183",
+      "storyName": "Paștile cu ucenicii",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/01c269a53183/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/01c269a53183",
+      "createdAt": "2026-04-14T17:37:54.973Z"
+    },
+    {
       "storyId": "e2a252dae920",
       "storyName": "O Veste din Betania",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/e2a252dae920/images/page-1.png",
