@@ -1,13 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "4c48fe519d78",
-      "storyName": "Schimbarea la Față",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/4c48fe519d78/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/4c48fe519d78",
-      "createdAt": "2026-04-14T08:43:48.240Z"
-    },
-    {
       "storyId": "561336343ded",
       "storyName": "Misterul de sub Castelul Umbrelor: Lecția Labirintului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/561336343ded/images/page-1.png",
@@ -607,6 +600,13 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8b322846eb2d/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/8b322846eb2d",
           "createdAt": "2026-04-14T06:09:42.937Z"
+        },
+        {
+          "storyId": "4c48fe519d78",
+          "storyName": "Schimbarea la Față",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/4c48fe519d78/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/4c48fe519d78",
+          "createdAt": "2026-04-14T08:43:48.240Z"
         }
       ]
     }
