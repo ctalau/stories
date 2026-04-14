@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "1bb624626e19",
+      "storyName": "Cuvintele de pe Muntele Măslinilor",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/1bb624626e19/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/1bb624626e19",
+      "createdAt": "2026-04-14T17:30:04.859Z"
+    },
+    {
       "storyId": "5378e7086e80",
       "storyName": "Calea Smereniei și a Adevărului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/5378e7086e80/images/page-1.png",
