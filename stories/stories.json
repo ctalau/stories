@@ -1,13 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "8b322846eb2d",
-      "storyName": "Calea și Jertfa: Chemarea lui Iisus",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8b322846eb2d/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/8b322846eb2d",
-      "createdAt": "2026-04-14T06:09:42.937Z"
-    },
-    {
       "storyId": "561336343ded",
       "storyName": "Misterul de sub Castelul Umbrelor: Lecția Labirintului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/561336343ded/images/page-1.png",
@@ -600,6 +593,13 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/ff4aea6663ab/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/ff4aea6663ab",
           "createdAt": "2026-04-14T06:07:48.607Z"
+        },
+        {
+          "storyId": "8b322846eb2d",
+          "storyName": "Calea și Jertfa: Chemarea lui Iisus",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/8b322846eb2d/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/8b322846eb2d",
+          "createdAt": "2026-04-14T06:09:42.937Z"
         }
       ]
     }
