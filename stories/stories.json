@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "9fe5166b4a69",
+      "storyName": "Începutul Lumii: Grădina Edenului",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9fe5166b4a69/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/9fe5166b4a69",
+      "createdAt": "2026-04-14T19:40:52.535Z"
+    },
+    {
       "storyId": "e1b98c458c7a",
       "storyName": "Ziua a Șasea: Facerea Lumii",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/e1b98c458c7a/images/page-1.png",
