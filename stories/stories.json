@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "273c0fe12cf9",
+      "storyName": "Calea Luminii: Povestea Paștelui",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/273c0fe12cf9/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/273c0fe12cf9",
+      "createdAt": "2026-04-14T17:47:41.762Z"
+    },
+    {
       "storyId": "f8f5ab6e831f",
       "storyName": "Procesul lui Iisus în fața lui Pilat",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/f8f5ab6e831f/images/page-1.png",
