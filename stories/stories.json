@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "9a9c55032c03",
+      "storyName": "Învierea lui Iisus",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9a9c55032c03/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/9a9c55032c03",
+      "createdAt": "2026-04-14T17:50:12.085Z"
+    },
+    {
       "storyId": "71931b00ecfa",
       "storyName": "Mormântul pecetluit",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/71931b00ecfa/images/page-1.png",
