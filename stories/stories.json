@@ -1,20 +1,6 @@
 {
   "stories": [
     {
-      "storyId": "f34298f8e347",
-      "storyName": "Împăratul și faptele iubirii - Partea a doua",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/f34298f8e347/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/f34298f8e347",
-      "createdAt": "2026-04-14T20:03:32.210Z"
-    },
-    {
-      "storyId": "997c923b2af2",
-      "storyName": "Lucrătorii Viei",
-      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/997c923b2af2/images/page-1.png",
-      "shareUrl": "https://gemini.google.com/share/997c923b2af2",
-      "createdAt": "2026-04-14T19:53:31.482Z"
-    },
-    {
       "storyId": "9fe5166b4a69",
       "storyName": "Începutul Lumii: Grădina Edenului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9fe5166b4a69/images/page-1.png",
@@ -796,6 +782,20 @@
           "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9a9c55032c03/images/page-1.png",
           "shareUrl": "https://gemini.google.com/share/9a9c55032c03",
           "createdAt": "2026-04-14T17:50:12.085Z"
+        },
+        {
+          "storyId": "f34298f8e347",
+          "storyName": "Împăratul și faptele iubirii - Partea a doua",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/f34298f8e347/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/f34298f8e347",
+          "createdAt": "2026-04-14T20:03:32.210Z"
+        },
+        {
+          "storyId": "997c923b2af2",
+          "storyName": "Lucrătorii Viei",
+          "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/997c923b2af2/images/page-1.png",
+          "shareUrl": "https://gemini.google.com/share/997c923b2af2",
+          "createdAt": "2026-04-14T19:53:31.482Z"
         }
       ]
     },
