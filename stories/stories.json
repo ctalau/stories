@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "77d5dc960ff8",
+      "storyName": "Facerea Lumii",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/77d5dc960ff8/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/77d5dc960ff8",
+      "createdAt": "2026-04-14T19:25:11.281Z"
+    },
+    {
       "storyId": "561336343ded",
       "storyName": "Misterul de sub Castelul Umbrelor: Lecția Labirintului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/561336343ded/images/page-1.png",
