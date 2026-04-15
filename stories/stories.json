@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "4fd8bed393c5",
+      "storyName": "Sângele care strigă: Povestea lui Cain și Abel",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/4fd8bed393c5/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/4fd8bed393c5",
+      "createdAt": "2026-04-15T07:49:04.557Z"
+    },
+    {
       "storyId": "50e3a646d19d",
       "storyName": "Viaţă",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/50e3a646d19d/images/page-1.png",
