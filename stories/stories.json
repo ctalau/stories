@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "9bd01caa79c1",
+      "storyName": "Legământul lui Noe",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/9bd01caa79c1/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/9bd01caa79c1",
+      "createdAt": "2026-04-15T08:09:17.999Z"
+    },
+    {
       "storyId": "c564850a1c55",
       "storyName": "Cartea Neamului",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/c564850a1c55/images/page-1.png",
