@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "561862679288",
+      "storyName": "Avram şi Lot",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/561862679288/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/561862679288",
+      "createdAt": "2026-04-15T09:39:02.024Z"
+    },
+    {
       "storyId": "d0997286dc79",
       "storyName": "Călătoria lui Avram",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/d0997286dc79/images/page-1.png",
