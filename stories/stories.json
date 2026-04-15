@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "c564850a1c55",
+      "storyName": "Cartea Neamului",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/c564850a1c55/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/c564850a1c55",
+      "createdAt": "2026-04-15T07:56:31.729Z"
+    },
+    {
       "storyId": "4fd8bed393c5",
       "storyName": "Sângele care strigă: Povestea lui Cain și Abel",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/4fd8bed393c5/images/page-1.png",
