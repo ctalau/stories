@@ -1,6 +1,13 @@
 {
   "stories": [
     {
+      "storyId": "50e3a646d19d",
+      "storyName": "Viaţă",
+      "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/50e3a646d19d/images/page-1.png",
+      "shareUrl": "https://gemini.google.com/share/50e3a646d19d",
+      "createdAt": "2026-04-15T07:38:23.511Z"
+    },
+    {
       "storyId": "bcd98516a555",
       "storyName": "Umbre în Grădina Luminii",
       "coverImageUrl": "https://raw.githubusercontent.com/ctalau/stories/main/stories/bcd98516a555/images/page-1.png",
